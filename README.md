@@ -1,6 +1,6 @@
 ##Compound Data Structure Drills
 
-This is another set of drills I used to practice using iterations to search through compound data structures. My code is divided into 2 sections, each with its own seed data structure.
+This is another set of drills I used to practice using iterations to search through compound data structures. My code is divided into two parts, each with its own seed data structure.
 
 ###Part 01
 
@@ -27,4 +27,4 @@ Contains Ruby code that answers the following questions:
 * What are the names of Dr. Sigrid Nader's children?
 * What is Bernard Feil's child's name?
 * What company does Casandra Kemmer work for?
-* Who are all the people in the first set that have an `m` in their Company names?
+* Who are all the people in the first set that have an `m` in their company names?
